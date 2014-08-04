@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Conceal</string>
+    <string name="accessibility_service_label">Decrypt Text</string>
+    <string name="accessibility_service_description">Decrypts any Concealed text</string>
+    <string name="title_activity_text_entry">Enter text to encrypt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

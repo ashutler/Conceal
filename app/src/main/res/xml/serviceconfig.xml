@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/accessibility_service_description"
+    android:packageNames="com.google.android.talk"
+    android:accessibilityEventTypes="typeViewClicked|typeViewFocused|typeViewTextChanged|typeViewSelected"
+    android:accessibilityFlags="flagDefault"
+    android:accessibilityFeedbackType="feedbackVisual"
+    android:notificationTimeout="100"
+    android:settingsActivity="ca.cydonian.conceal.ConcealSettings"
+    android:canRetrieveWindowContent="true"
+    />
+
